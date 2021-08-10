@@ -1,11 +1,11 @@
 # obligatorio_2021_08
 
 #ejecutar playbook
-[ansible@CentOSbastion lamp]$  ansible-playbook  site.yml --ask-become-pass -v
+#[ansible@CentOSbastion lamp]$  ansible-playbook  site.yml --ask-become-pass -v
 
 #Archivos con las tasks configuradas
-[ansible@CentOSbastion roles]$ ls
-common  db  web
+#[ansible@CentOSbastion roles]$ ls
+#common  db  web
 
 #Common
 Instalacion de NTP
